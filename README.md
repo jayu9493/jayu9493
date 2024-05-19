@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Bash script
 - 👯 I’m looking to collaborate n ...
 - 🤔 I’m looking for help with ... My linux project 
-- 💬 Ask me about :[Discord](https://discord.com/usersjay_patel_94)
+- 💬 Ask me about :[Discord](https://discord.com/users/jay_patel_94)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
